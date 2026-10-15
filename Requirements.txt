@@ -1,0 +1,4 @@
+pandas==3.0.5
+scipy==1.18.0
+matplotlib==3.11.1
+adjustText==1.4.0
